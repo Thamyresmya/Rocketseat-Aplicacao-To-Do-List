@@ -46,7 +46,6 @@ public class FilterTaskAuth extends OncePerRequestFilter {
                 String password = credentioals[1];
                 System.out.println("Authorization");
                 System.out.println(username); 
-                System.out.println(password);
                 //resultado: [thamyrescavalcante] [12345]
 
                 //Validar Usuario

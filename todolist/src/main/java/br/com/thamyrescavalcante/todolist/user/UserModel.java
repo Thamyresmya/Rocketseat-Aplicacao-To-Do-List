@@ -11,7 +11,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import lombok.Data;
 
-@Data //vai colocar getters e setters
+@Data    //coloca getters e setters para todos
 @Entity(name = "tb_users")
 public class UserModel {
 

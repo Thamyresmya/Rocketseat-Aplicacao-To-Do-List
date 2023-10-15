@@ -24,7 +24,6 @@ public class UserController {
 
         if(user != null){
             //Mensagem de erro
-            //Status code
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Usuario já existe!");
         }
 
