@@ -16,10 +16,12 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- Java
+- VS Code
+- Java 17
 - Spring Boot
-- Maven
 - Spring Data JPA
+- Maven
+- Banco de dados H2
 - Git e Github
 
 
@@ -35,6 +37,10 @@ Projeto de To-Do list desenvolvido em Java com Spring boot, junto com a galera d
 Neste repositório você tem acesso a todo o material produzido no curso.
 
 ## 📸 Gif
+
+<video width="100%" height="340" controls>
+  <source src="./geral/To-Do-List.mp4" type="video/mp4">
+</video>
 
 Criando usuario <br>
 <img width="100%" height="450" src="./geral/criando_usuario.png"></img>
@@ -59,9 +65,6 @@ Id da tarefa não existe <br>
 
 <img width="100%" height="390" src="./geral/To-Do-List-alterando tarefa.gif"></img>
 
-<video width="100%" height="340" controls>
-  <source src="./geral/To-Do-List.mp4" type="video/mp4">
-</video>
 
 ## 📚 Me siga nas redes sociais
 
