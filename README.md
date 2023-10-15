@@ -21,6 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Spring Boot
 - Spring Data JPA
 - Maven
+- Insomnia
 - Banco de dados H2
 - Git e Github
 
