@@ -44,7 +44,7 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 
 ---
 
-Feito com ♥ by Thamyres Cavalcante.
+Feito com 💜 by Thamyres Cavalcante.
 
 
 
